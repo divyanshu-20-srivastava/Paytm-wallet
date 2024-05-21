@@ -38,6 +38,9 @@ PayEasy is a digital wallet application designed to replicate the functionality 
 
 PayEasy aims to provide a realistic and secure digital wallet experience, ensuring smooth and reliable financial transactions for both users and merchants.
 
+![Screenshot 2024-05-21 121543](https://github.com/divyanshu-20-srivastava/Paytm-wallet/assets/96994877/76cc9b38-4b3a-474b-9854-5a6cb96f0efa)
+
+
 - Clone the repo
 
 ```jsx
